@@ -1,0 +1,14 @@
+
+.logo{
+    display: flex;
+}
+.nav-logo{
+    display: flex;
+}
+.nav-bar> ul{
+    display: flex;
+    list-style: none;
+}
+.header-img{
+    background-image: url(photos/header.png);
+}
